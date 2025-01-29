@@ -314,5 +314,8 @@ footer:hover {
    .contactinfo{
     height: 450px;
   }
+   .contactinfo i{
+    font-size: 9px;
+  }
 }
   
