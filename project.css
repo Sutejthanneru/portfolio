@@ -232,5 +232,7 @@ footer:hover {
  .projectbody .grid{
     grid-template-columns: auto;
 }
-  
+  .grid{
+      margin:0px;
+  }
 }
