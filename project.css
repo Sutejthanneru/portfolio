@@ -134,6 +134,7 @@ list-style: none;
     
    .projectbody{
        grid-template-columns: auto;
+   }
 }
 i{
     margin-right: 10px;
