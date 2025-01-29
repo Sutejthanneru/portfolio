@@ -310,3 +310,9 @@ footer:hover {
   }
  
 }
+@media (max-width:500px){
+   .contactinfo{
+    height: 450px;
+  }
+}
+  
